@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker run --init --rm -t -v "$PWD/composer.json:/app/composer.json" finagin/composer-normalize:latest
