@@ -1,6 +1,15 @@
 # Composer Normalize
 
+Normalize PHP Composer File.
+
+- [Usage](#usage)
 - [License](#license)
+
+## Usage
+
+```shell
+curl -sSL https://finagin.github.io/composer-normalize | sh
+```
 
 ## License
 
